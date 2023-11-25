@@ -1,9 +1,9 @@
 # sql_tutorial
 mysql notebook for tutorial
 
-1. Create and Delete
+1. Create and Drop
 
-2. Insert and Drop
+2. Insert and Delete
 
 3. Select
 
