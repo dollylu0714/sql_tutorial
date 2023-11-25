@@ -15,7 +15,7 @@ predicate 谓词：LIKE;BETWEEN;IS NULL;IS NOT NULL;IN;EXISTS
 
 4. Function
    
-sum; count
+SUM(); COUNT()
 
 5. Join
 
